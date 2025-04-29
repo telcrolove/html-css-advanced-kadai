@@ -79,7 +79,7 @@ PC用のスタイル
   }
 
   #menu-sp {
-    float:right;
+    float: right;
     padding: 0;
   }
 
@@ -96,6 +96,7 @@ PC用のスタイル
   
   #nav-sp  ul {
     padding-left: 0;
+    margin: 100px 0;
   }
 
   #nav-sp  li {
@@ -109,9 +110,10 @@ PC用のスタイル
   }
 
   #logo-sp {
-    margin: 80px 0px 30px 20px;
+    margin: 80px 0 30px 20px;
   }
-  #nev-sp  a {
+  
+  #nev-sp a {
     display: block;
   }
 
@@ -131,10 +133,10 @@ PC用のスタイル
     color: #ffffff;
   }
 
-  #nav-sp .menu {
+  #nav-sp  .menu {
     text-decoration: none;
     display: block;
-    margin: 0 20px;
+    margin: 10px 20px;
     height: 44px;
     font-size: 16px;
     background-image: url("images/arrow.png");
@@ -142,5 +144,5 @@ PC用のスタイル
     background-position: right top;
     
   }
- 
+
 }
